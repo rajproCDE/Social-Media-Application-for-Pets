@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "192017124430",
+    "project_id": "hotel-app-627b5",
+    "storage_bucket": "hotel-app-627b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192017124430:android:b9e3555e6ef587bbfbc71f",
+        "android_client_info": {
+          "package_name": "com.healthapp.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192017124430-phj70vnv5nlquilbcs7g73eou0aie8ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthapp.sniffsocial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "192017124430-rb6sneeb7o28t7fmtt0aql7eead7eqi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8M4C9Sig8gDpT0Ykj6Orw00ebK6Zmk_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192017124430-rb6sneeb7o28t7fmtt0aql7eead7eqi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192017124430-3cmobfb033rhmj1o24d1vkq2g6djs2uq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healthapp.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
